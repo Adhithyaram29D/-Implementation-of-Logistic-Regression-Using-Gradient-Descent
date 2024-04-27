@@ -85,7 +85,7 @@ print(y_prednew)
 ## Output:
 
 #### Dataset:
-<img src = "https://github.com/Adhithyaram29D/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393540/f0e5af66-87dc-4dd7-be43-c817ad0d6473" width="400">
+<img src = "https://github.com/Adhithyaram29D/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393540/f0e5af66-87dc-4dd7-be43-c817ad0d6473" width="500">
 
 #### Datatypes:
 <img src = "https://github.com/Adhithyaram29D/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393540/992ffd1f-0f1d-4431-8b28-6952814db938" height="300">
