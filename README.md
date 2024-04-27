@@ -95,6 +95,7 @@ print(y_prednew)
 
 #### Dependent variable Y:
 <img src = "https://github.com/Adhithyaram29D/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393540/a34516e4-b57f-41c4-9d94-d3d43f3dce92" width="400">
+<br>
 
 #### Accuracy:
 <img src = "https://github.com/Adhithyaram29D/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393540/9b8ef2d9-8a67-41d2-a35c-b3c0234f0895" width="200">
