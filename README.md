@@ -85,7 +85,7 @@ print(y_prednew)
 ## Output:
 
 #### Dataset:
-<img src = "https://github.com/Adhithyaram29D/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393540/f0e5af66-87dc-4dd7-be43-c817ad0d6473" width="300">
+<img src = "https://github.com/Adhithyaram29D/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393540/f0e5af66-87dc-4dd7-be43-c817ad0d6473" width="400">
 
 #### Datatypes:
 <img src = "https://github.com/Adhithyaram29D/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393540/992ffd1f-0f1d-4431-8b28-6952814db938" height="300">
@@ -100,7 +100,7 @@ print(y_prednew)
 <img src = "https://github.com/Adhithyaram29D/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393540/9b8ef2d9-8a67-41d2-a35c-b3c0234f0895" width="200">
 
 #### Y_predicted & Y:
-<img src = "https://github.com/Adhithyaram29D/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393540/63bf8995-3b82-4807-b9fc-490663a85612" width="300">
+<img src = "https://github.com/Adhithyaram29D/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393540/63bf8995-3b82-4807-b9fc-490663a85612" width="400">
 
 #### Y_prednew:
 <img src = "https://github.com/Adhithyaram29D/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393540/6c0adeaf-b6a3-4cde-84ac-683ba144cace" width="300">
